@@ -13,5 +13,5 @@ If you found a location, you can easily create a bar in the right-click contextm
 
 [...] but in case, make sure this script stay in that folder!
 
-### HOW DOES IT WORKS?
+### HOW DOES IT WORK?
 Easily, just **drag** the choosen executeable file **and drop** onto this script's file, **or if you have contexmenu option**, then right-click on the exe file and **choose CustomizedLaunchForUnityApps**.
